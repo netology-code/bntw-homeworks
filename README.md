@@ -18,4 +18,4 @@
 
 1.4. [Функции, возможности и характеристики сетевых устройств.](1-04.md)
 
-1.5. [Подключение к оборудованию Cisco/Mikrotik/Juniper, базовая настройка. ](https://github.com/netology-code/bntw-homeworks/blob/main/1-05.md)
+1.5. [Подключение к оборудованию, базовая настройка. ](https://github.com/netology-code/bntw-homeworks/blob/main/1-05.md)
